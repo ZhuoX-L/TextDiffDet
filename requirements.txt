@@ -1,0 +1,16 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+scipy
+opencv-python
+pycocotools
+einops
+jieba
+tqdm
+fvcore
+iopath
+omegaconf
+hydra-core
+timm
+mamba-ssm
+causal-conv1d
